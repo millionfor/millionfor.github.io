@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>millionfor</title>
-        <link>https://example.com/</link>
+        <link>https://millionfor.github.io/</link>
         <description>Recent content on millionfor</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 16 Aug 2022 18:15:22 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Aug 2022 18:15:22 +0800</lastBuildDate><atom:link href="https://millionfor.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://millionfor.github.io/search/</link>
         <pubDate>Tue, 16 Aug 2022 18:15:22 +0800</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://millionfor.github.io/search/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://millionfor.github.io/about/</link>
         <pubDate>Tue, 16 Aug 2022 18:11:53 +0800</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://millionfor.github.io/about/</guid>
         <description></description>
         </item>
         
